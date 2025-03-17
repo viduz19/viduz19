@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viduz19&label=Profile%20views&color=0e75b6&style=flat" alt="viduz19" /> </p>
 
-- 🔭 I’m currently working on **Flutter and React**
+- 🔭 I’m currently working on **Flutter ,React and TypeScript**
 
 - 🌱 I’m currently learning **at Institute of Technology University of Moratuwa**
 
