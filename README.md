@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viduz19&label=Profile%20views&color=0e75b6&style=flat" alt="viduz19" /> </p>
 
-- 🔭 I’m currently working on **Wordpress Flutter ,React  and TypeScript**
+- 🔭 I’m currently working on **React, TypeScript, Node.js, Flutter, Dart**
 
-- 🌱 I’m currently learning **at Institute of Technology University of Moratuwa**
+- 🎓 I’m currently learning **at Institute of Technology University of Moratuwa**
+
+- 🎓 I’m currently following a **BSc (Hons) Computing** top up degree program at **Wrexham University - United Kingdom**
 
 - 📫 How to reach me **sandunividusha9@gmail.com**
 
