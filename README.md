@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidusha Puswalkatiya</h1>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c13b67156814f1d2ab8c0e293b5873e200af92555578474806551cecf9e95dcd/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3139313831355f35643964336666316164383934653936613266306138363638313536333535357e6d76322e676966">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viduz19&label=Profile%20views&color=0e75b6&style=flat" alt="viduz19" /> </p>
